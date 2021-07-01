@@ -169,7 +169,7 @@ async def speedtst(spd):
                    f"`{result['ping']}` \n"
                    "✧ **ISP:** "
                    f"`{result['client']['isp']}` \n"
-                   "✧ **BOT:** ⚡𝗚𝗲𝗲𝘇-𝙐𝙎𝙀𝙍𝘽𝙊𝙏⚡")
+                   "✧ **BOT:** 🔥𝗡𝗼𝗺𝗲𝗿𝗰𝘆-𝙐𝙨𝙚𝙧𝙗𝙤𝙩🔥")
 
 
 def speed_convert(size):
@@ -191,7 +191,7 @@ async def pingme(pong):
     start = datetime.now()
     await pong.edit("PONG")
     await asyncio.sleep(1)
-    await pong.edit("⚡")
+    await pong.edit("✨")
     end = datetime.now()
     duration = (end - start).microseconds / 9000
     await pong.edit(f"**Oᴡɴᴇʀ : {ALIVE_NAME}**\n`%sms`" % (duration))
