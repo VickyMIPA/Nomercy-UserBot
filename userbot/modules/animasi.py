@@ -3,15 +3,15 @@ from userbot import CMD_HELP
 from userbot.events import register
 
 
-@register(outgoing=True, pattern='^.sadboy(?: |$)(.*)')
+@register(outgoing=True, pattern='^.piki(?: |$)(.*)')
 async def typewriter(typew):
     typew.pattern_match.group(1)
     sleep(2)
-    await typew.edit("`Pertama-tama kamu cantik`")
+    await typew.edit("`Pertama-tama Piki itu Ganteng😎`")
     sleep(2)
-    await typew.edit("`Kedua kamu manis`")
+    await typew.edit("`Kedua Piki Manis`")
     sleep(1)
-    await typew.edit("`Dan yang terakhir adalah kamu bukan jodohku`")
+    await typew.edit("`Yang Ketiga Love U Smwaa😚`")
 
 # Create by myself @localheart
 
@@ -88,7 +88,7 @@ async def typewriter(typew):
 
 CMD_HELP.update({
     "animasi2":
-    "𝘾𝙤𝙢𝙢𝙖𝙣𝙙: `.sadboy`\
+    "𝘾𝙤𝙢𝙢𝙖𝙣𝙙: `.piki`\
     \n↳ : Biasalah sadboy hikss\
     \n\n𝘾𝙤𝙢𝙢𝙖𝙣𝙙: `.punten` dan `.pantau`\
     \n↳ : Coba aja hehehe.\
