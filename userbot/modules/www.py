@@ -61,8 +61,8 @@ async def redis(pong):
     await pong.edit(f"**╭━━━━━━━━━━━━━━━━━╮** \n"
                     f"**          - 𝐍 𝐄 𝐓 𝐖 𝐎 𝐑 𝐊 -** \n"
                     f"**   ▰▱▰▱▰▱▰▱▰▱▰▱** \n"
-                    f"**        • ꜱɪɢɴᴀʟ  :** `%sms` \n"
-                    f"**        • ᴏᴡɴᴇʀ   :** `{ALIVE_NAME}` \n"
+                    f"**        ➥ ꜱɪɢɴᴀʟ  :** `%sms` \n"
+                    f"**        ➥ ᴏᴡɴᴇʀ   :** `{ALIVE_NAME}` \n"
                     f"**╰━━━━━━━━━━━━━━━━━╯** \n" % (duration))
 
 
@@ -75,9 +75,9 @@ async def redis(pong):
     end = datetime.now()
     duration = (end - start).microseconds / 1000
     await pong.edit(f"**`{ALIVE_NAME}`**\n"
-                    f"✧ **-ꜱɪɢɴᴀʟ- :** "
+                    f"➥ **-ꜱɪɢɴᴀʟ- :** "
                     f"`%sms` \n"
-                    f"✧ **-ᴜᴘᴛɪᴍᴇ- :** "
+                    f"➥ **-ᴜᴘᴛɪᴍᴇ- :** "
                     f"`{uptime}` \n" % (duration))
 
 
@@ -98,9 +98,9 @@ async def redis(pong):
     end = datetime.now()
     duration = (end - start).microseconds / 1000
     await pong.edit(f"**🔥𝗡𝗼𝗺𝗲𝗿𝗰𝘆-𝙐𝙨𝙚𝙧𝙗𝙤𝙩🔥**\n"
-                    f"➾ __Signal__    __:__ "
+                    f"➥ __Signal__    __:__ "
                     f"`%sms` \n"
-                    f"➾ __Uptime__ __:__ "
+                    f"➥ __Uptime__ __:__ "
                     f"`{uptime}` \n" % (duration))
 
 
@@ -122,11 +122,11 @@ async def redis(pong):
     end = datetime.now()
     duration = (end - start).microseconds / 1000
     await pong.edit(f"**🔥𝗡𝗼𝗺𝗲𝗿𝗰𝘆-𝙐𝙨𝙚𝙧𝙗𝙤𝙩🔥**\n\n"
-                    f"** ▹  Sɪɢɴᴀʟ   :** "
+                    f"** ➥  Sɪɢɴᴀʟ   :** "
                     f"`%sms` \n"
-                    f"** ▹  Uᴘᴛɪᴍᴇ  :** "
+                    f"** ➥  Uᴘᴛɪᴍᴇ  :** "
                     f"`{uptime}` \n"
-                    f"** ▹  Oᴡɴᴇʀ   :** `{ALIVE_NAME}` \n" % (duration))
+                    f"** ➥  Oᴡɴᴇʀ   :** `{ALIVE_NAME}` \n" % (duration))
 
 
 @register(outgoing=True, pattern="^.ping$")
@@ -142,7 +142,7 @@ async def redis(pong):
     await asyncio.sleep(2)
     end = datetime.now()
     duration = (end - start).microseconds / 1000
-    await pong.edit(f"**Nomercy - Userbot!!!🔥**\n**Pinger** : %sms\n**Bot Uptime** : {uptime}🕛" % (duration))
+    await pong.edit(f"**Nomercy - Userbot!!!🔥**\n**➥Pinger** : %sms\n**➥Bot Uptime** : {uptime}🕛" % (duration))
 
 
 @register(outgoing=True, pattern="^.speed$")
