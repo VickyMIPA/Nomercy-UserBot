@@ -5,9 +5,9 @@ from userbot.events import register
 from userbot import bot, TEMP_DOWNLOAD_DIRECTORY, CMD_HELP
 
 
-@register(outgoing=True, pattern=r'^.kamuii(:? |$)([1-8])?')
+@register(outgoing=True, pattern=r'^.jele(:? |$)([1-8])?')
 async def _(fry):
-    await fry.edit("`Prosess, Mengaktifkan jurus tumor bolong...😜`")
+    await fry.edit("`Sabae Lagi Prosess, Ga Lama Lagi Muka lo Remuk Anjinccc!!!!...`")
     level = fry.pattern_match.group(2)
     if fry.fwd_from:
         return
