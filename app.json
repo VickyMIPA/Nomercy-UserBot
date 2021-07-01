@@ -171,8 +171,8 @@
       "description": "Nama untuk menunjukan pesan .alive",
       "required": false
     },
-    "GEEZ_TEKS_KUSTOM": {
-      "description": "Kustom Pesan Alive Mu Untuk Perintah .geezalive (Isi Terserah)",
+    "NOMERCY_TEKS_KUSTOM": {
+      "description": "Kustom Pesan Alive Mu Untuk Perintah .nomercyalive (Isi Terserah)",
       "required": false
     },
     "S_PACK_NAME": {
