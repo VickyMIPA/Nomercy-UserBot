@@ -4,7 +4,7 @@ from userbot.events import register
 from asyncio.exceptions import TimeoutError
 
 
-@register(outgoing=True, pattern=r"^\.sa(?: |$)(.*)")
+@register(outgoing=True, pattern=r"^\.lokit(?: |$)(.*)")
 async def lastname(steal):
     if steal.fwd_from:
         return
@@ -18,7 +18,7 @@ async def lastname(steal):
     if message.sender.bot:
         await steal.edit("```Balas Ke Pesan Pengguna Yang Sebenarnya.```")
         return
-    await steal.edit("```Mengambil Informasi Pengguna Tersebut, Mohon Menunggu..```")
+    await steal.edit("```MAKANYA JANGAN SOSOAN MISTERIUS KONTOL,MAMPUS GUE TAU NAMA LO!```")
     try:
         async with bot.conversation(chat) as conv:
             try:
@@ -57,6 +57,6 @@ async def lastname(steal):
 
 CMD_HELP.update({
     "sangmata":
-        "`.sa`\
+        "`.lokit`\
           \nUsage: Mendapatkan Riwayat Nama Pengguna."
 })
