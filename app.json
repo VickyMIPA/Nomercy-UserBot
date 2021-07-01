@@ -1,6 +1,6 @@
 {
-  "name": "⚡𝗚𝗲𝗲𝘇 𝙐𝙎𝙀𝙍𝘽𝙊𝙏⚡",
-  "description": "🚫Geez-UserBot🚫 USERBOT KHUSUS YANG DIGUNAKAN UNTUK BERSENANG-SENANG DI TELEGRAM.",
+  "name": "🔥𝗡𝗼𝗺𝗲𝗿𝗰𝘆-𝙐𝙨𝙚𝙧𝙗𝙤𝙩🔥",
+  "description": "🔥𝗡𝗼𝗺𝗲𝗿𝗰𝘆-𝙐𝙨𝙚𝙧𝙗𝙤𝙩🔥 USERBOT KHUSUS YANG DIGUNAKAN UNTUK BERSENANG-SENANG DI TELEGRAM.",
   "logo": "",
   "keywords": [
     "telegram",
@@ -9,9 +9,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/Vckyou/Geez-UserBot",
-  "telegram": "https://t.me/VckyouuBitch",
-  "success_url": "https://t.me/CariTemanRandom",
+  "repository": "https://github.com/VickyMIPA/Nomercy-UserBot",
+  "telegram": "https://t.me/xenxust",
+  "success_url": "https://t.me/aliansinomercy",
   "stack": "container",
   "env": {
     "API_KEY": {
@@ -164,7 +164,7 @@
     },
     "DEFAULT_BIO": {
       "description": "Default Bio Mu.",
-      "value": "unknown",
+      "value": "🔥𝗡𝗼𝗺𝗲𝗿𝗰𝘆-𝙐𝙨𝙚𝙧𝙗𝙤𝙩🔥",
       "required": false
     },
     "ALIVE_NAME": {
