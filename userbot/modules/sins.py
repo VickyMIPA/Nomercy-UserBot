@@ -18,7 +18,7 @@ async def typewriter(typew):
 
 CMD_HELP.update({
     "kontol":
-    "𝘾𝙤𝙢𝙢𝙖𝙣𝙙: `.kntl`\
+    "𝘾𝙤𝙢𝙢𝙖𝙣𝙙: `.sins`\
     \n↳ : Biasalah sadboy hikss"
     }
 )
