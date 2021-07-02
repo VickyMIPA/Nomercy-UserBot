@@ -17,5 +17,5 @@ CMD_HELP.update({
     "animasi2":
     "𝘾𝙤𝙢𝙢𝙖𝙣𝙙: `.sins`\
     \n↳ : Biasalah sadboy hikss\.
+    }
 )
- }
