@@ -63,7 +63,7 @@ async def deploy(event, repo, ups_rem, ac_br, txt):
                 break
         if heroku_app is None:
             await event.edit(
-                f'{txt}\n`Kredensial Heroku tidak valid untuk deploy Geez-Project dyno.`'
+                f'{txt}\n`Kredensial Heroku tidak valid untuk deploy Nomercy-Project dyno.`'
             )
             return repo.__del__()
         await event.edit('`[HEROKU]:'
@@ -91,7 +91,7 @@ async def deploy(event, repo, ups_rem, ac_br, txt):
             await asyncio.sleep(5)
             return await event.delete()
         else:
-            await event.edit("`Geez-ProjectBot Berhasil Di Deploy!\n" "Restarting, Mohon Tunggu Sebentar.....`")
+            await event.edit("`Nomercy-ProjectBot Berhasil Di Deploy!\n" "Restarting, Mohon Tunggu Sebentar.....`")
             await asyncio.sleep(15)
             await event.delete()
 
@@ -208,7 +208,7 @@ async def upstream(event):
             remove("output.txt")
         else:
             await event.edit(changelog_str)
-        return await event.respond('**Perintah Untuk Update, Sebagai Berikut.**\n 𝘾𝙤𝙢𝙢𝙖𝙣𝙙: >`.update now`\n 𝘾𝙤𝙢𝙢𝙖𝙣𝙙: >`.update deploy`\n\n__Untuk Meng Update Fitur Terbaru Dari ⚡Geez-Project⚡.__')
+        return await event.respond('**Perintah Untuk Update, Sebagai Berikut.**\n 𝘾𝙤𝙢𝙢𝙖𝙣𝙙: >`.update now`\n 𝘾𝙤𝙢𝙢𝙖𝙣𝙙: >`.update deploy`\n\n__Untuk Meng Update Fitur Terbaru Dari 🔥𝗡𝗼𝗺𝗲𝗿𝗰𝘆-𝙐𝙨𝙚𝙧𝙗𝙤𝙩🔥.__')
 
     if force_update:
         await event.edit(
