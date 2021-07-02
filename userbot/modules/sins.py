@@ -15,7 +15,7 @@ async def typewriter(typew):
 
 CMD_HELP.update({
     "animasi2":
-    "𝘾𝙤𝙢𝙢𝙖𝙣𝙙: `.piki`\
+    "𝘾𝙤𝙢𝙢𝙖𝙣𝙙: `.sins`\
     \n↳ : Biasalah sadboy hikss\.
 )
  }
