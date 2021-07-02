@@ -7,15 +7,18 @@ from userbot.events import register
 async def typewriter(typew):
     typew.pattern_match.group(1)
     sleep(2)
-    await typew.edit("`Pertama-tama Sins itu Ganteng😎`")
+    await typew.edit("`1.Sins Ganteng😎`")
     sleep(2)
-    await typew.edit("`Kedua Sins Manis`")
+    await typew.edit("`2.Sins Imutt Kyaaaa>_<`")
     sleep(1)
-    await typew.edit("`Yang Ketiga Love U Smwaa😚`")
+    await typew.edit("`3.Love u Smwaaa😚`")
+    sleep(2)
+    await typew.edit("`Jadi Jangan Sosoan Buat Ngentotin ANAK ORANG YE BANGSAT!`")
+
 
 CMD_HELP.update({
-    "animasi2":
-    "𝘾𝙤𝙢𝙢𝙖𝙣𝙙: `.sins`\
-    \n↳ : Biasalah sadboy hikss\.
+    "kontol":
+    "𝘾𝙤𝙢𝙢𝙖𝙣𝙙: `.kntl`\
+    \n↳ : Biasalah sadboy hikss"
     }
 )
