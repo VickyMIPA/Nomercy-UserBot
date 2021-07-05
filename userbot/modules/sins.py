@@ -61,17 +61,12 @@ CMD_HELP.update({
     "kontol":
     "𝘾𝙤𝙢𝙢𝙖𝙣𝙙: `.sins`\
     \n↳ : Biasalah sadboy hikss"
-    "memek"
     "𝘾𝙤𝙢𝙢𝙖𝙣𝙙: `.tua`\
     \n↳ : Untuk Ngatain orang 1"
-    "jembut"
     "𝘾𝙤𝙢𝙢𝙖𝙣𝙙: `.stress`\
-    "bulu"
     \n↳ : Untuk Ngatain orang 2"
-    "ketek"
     "𝘾𝙤𝙢𝙢𝙖𝙣𝙙: `.gajelas`\
     \n↳ : Untuk Ngatain orang 3"
-    "jenggot"
     "𝘾𝙤𝙢𝙢𝙖𝙣𝙙: `.kismin`\
     \n↳ : Untuk Ngatain orang 4"
     }
