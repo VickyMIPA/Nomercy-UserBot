@@ -13,7 +13,7 @@ async def typewriter(typew):
     sleep(1)
     await typew.edit("`3.Love u Smwaaa😚`")
     sleep(2)
-    await typew.edit("`Jadi Jangan Sosoan Buat Ngentotin ANAK ORANG YE BANGSAT!`")
+    await typew.edit("`Hehe😁`")
 
 
 CMD_HELP.update({
