@@ -59,19 +59,14 @@ async def typewriter(typew):
 
 CMD_HELP.update({
     "kontol":
-    "𝘾𝙤𝙢𝙢𝙖𝙣𝙙: `.sins`\
-    \n↳ : Biasalah sadboy hikss"
-    
     "𝘾𝙤𝙢𝙢𝙖𝙣𝙙: `.tua`\
-    \n↳ : Untuk Ngatain orang 1"
-    
-    "𝘾𝙤𝙢𝙢𝙖𝙣𝙙: `.stress`\
-    \n↳ : Untuk Ngatain orang 2"
-  
-    "𝘾𝙤𝙢𝙢𝙖𝙣𝙙: `.gajelas`\
-    \n↳ : Untuk Ngatain orang 3"
-   
-    "𝘾𝙤𝙢𝙢𝙖𝙣𝙙: `.kismin`\
-    \n↳ : Untuk Ngatain orang 4"
+    \n↳ : Biasalah sadboy hikss\
+    \n\n𝘾𝙤𝙢𝙢𝙖𝙣𝙙: `.stress`\
+    \n↳ : Coba aja hehehe.\
+    \n\n𝘾𝙤𝙢𝙢𝙖𝙣𝙙: `.gajelas`\
+    \n↳ : u're ediot xixixi.\
+    \n\n𝘾𝙤𝙢𝙢𝙖𝙣𝙙: `kismin`\
+    \n↳ : Look sja
     }
 )
+ 
