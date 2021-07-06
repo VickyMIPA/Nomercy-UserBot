@@ -66,7 +66,7 @@ CMD_HELP.update({
     \n\n𝘾𝙤𝙢𝙢𝙖𝙣𝙙: `.gajelas`\
     \n↳ : u're ediot xixixi.\
     \n\n𝘾𝙤𝙢𝙢𝙖𝙣𝙙: `kismin`\
-    \n↳ : Look sja
+    \n↳ : Look sja"
     }
 )
  
