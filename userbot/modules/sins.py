@@ -68,7 +68,7 @@ CMD_HELP.update({
     \n\n𝘾𝙤𝙢𝙢𝙖𝙣𝙙: `.gajelas`\
     \n↳ : lo ediot hehe.\
     \n\n𝘾𝙤𝙢𝙢𝙖𝙣𝙙: `kismin`\
-    \n↳ : Ngatain Orang Miskin."
+    \n↳ : liat sendiri"
     }
 )
  
