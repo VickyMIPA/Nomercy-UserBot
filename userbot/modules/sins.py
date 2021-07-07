@@ -62,13 +62,13 @@ CMD_HELP.update({
     "𝘾𝙤𝙢𝙢𝙖𝙣𝙙: `.sins`\
     \n↳ : Sins Ganteng\
     "𝘾𝙤𝙢𝙢𝙖𝙣𝙙: `.tua`\
-    \n↳ : War\
+    \n↳ : war.\
     \n\n𝘾𝙤𝙢𝙢𝙖𝙣𝙙: `.stress`\
     \n↳ : Coba aja hehehe.\
     \n\n𝘾𝙤𝙢𝙢𝙖𝙣𝙙: `.gajelas`\
     \n↳ : lo ediot hehe.\
     \n\n𝘾𝙤𝙢𝙢𝙖𝙣𝙙: `kismin`\
-    \n↳ : Ngatain Orang Miskin"
+    \n↳ : Ngatain Orang Miskin."
     }
 )
  
