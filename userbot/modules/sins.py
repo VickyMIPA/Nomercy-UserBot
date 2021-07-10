@@ -63,9 +63,9 @@ CMD_HELP.update({
     \n\n"𝘾𝙤𝙢𝙢𝙖𝙣𝙙: `.tua`
     \n↳: war.
     \n\n𝘾𝙤𝙢𝙢𝙖𝙣𝙙: `.stress`
-    \n↳: Coba aja hehehe.
+    \n↳: Coba aja hehehe.\
     \n\n𝘾𝙤𝙢𝙢𝙖𝙣𝙙: `.gajelas`
-    \n↳: lo ediot hehe.
+    \n↳: lo ediot hehe.\
     \n\n𝘾𝙤𝙢𝙢𝙖𝙣𝙙: `.kismin`
     \n↳: liat sendiri"
 }
