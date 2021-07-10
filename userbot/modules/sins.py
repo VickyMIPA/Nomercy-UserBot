@@ -56,19 +56,17 @@ async def typewriter(typew):
     await typew.edit("**GUA KASIH TAU NI AMA LO MENDING PIKIRIN BEROBAT MAU GMNA LO MAKAN AJA SUSAH HARI HARI IDUP LO SUSAH MULU NGEMIS GA DIKASIH EMAK LO NGELONTE GA LAKU GEGARA MEMEKNYA SUMBING PANUAN KURAPAN BECEK KEK APAAN TAU BOKAP LO KAN UDH CACAT ADEK LO JUAL TISU GA LAKU LAKU MENDING NIH YA GUA KASIH TAU LO ITU MENDING BIKIN BPJS KE PEMERINTAH EH PERCUMA SI PEMERINTAH JUGA MALES NGURUSIN BPJS ORANG MISKIN GEMBEL HINA KAYA LO SECARA LO ITU GA GUNA LAGI DI DUNIA MENDING ITU LO MATI ABIS ITUU GUA SURUH ADE LO KASIH TAU DIMANA KUBURAN LO NANTI NIH YA GUA KENCINGIN KUBURAN LO ABIS ITU GUA GAMBAR BATU NISAN LO PAKE PILOK GAMBAR KONTOL YANG GEDE AMA GRAVITY TULISAN DIA ATHEIS GAUSAH DIKASIH PAPAN NISAN KONTOL.**")
 
 
-
 CMD_HELP.update({
     "war":
     "𝘾𝙤𝙢𝙢𝙖𝙣𝙙: `.sins`\
     \n↳ : Sins Ganteng.\
-    "𝘾𝙤𝙢𝙢𝙖𝙣𝙙: `.tua`\
-    \n↳ : war.\
-    \n\n𝘾𝙤𝙢𝙢𝙖𝙣𝙙: `.stress`\
-    \n↳ : Coba aja hehehe.\
-    \n\n𝘾𝙤𝙢𝙢𝙖𝙣𝙙: `.gajelas`\
-    \n↳ : lo ediot hehe.\
-    \n\n𝘾𝙤𝙢𝙢𝙖𝙣𝙙: `.kismin`\
-    \n↳ : liat sendiri"
-    }
+    "𝘾𝙤𝙢𝙢𝙖𝙣𝙙: `.tua`
+    \n↳: war.
+    \n\n𝘾𝙤𝙢𝙢𝙖𝙣𝙙: `.stress`
+    \n↳: Coba aja hehehe.
+    \n\n𝘾𝙤𝙢𝙢𝙖𝙣𝙙: `.gajelas`
+    \n↳: lo ediot hehe.
+    \n\n𝘾𝙤𝙢𝙢𝙖𝙣𝙙: `.kismin`
+    \n↳: liat sendiri"
+}
 )
- 
