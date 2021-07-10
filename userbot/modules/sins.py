@@ -58,9 +58,9 @@ async def typewriter(typew):
 
 CMD_HELP.update({
     "war":
-    "𝘾𝙤𝙢𝙢𝙖𝙣𝙙: `.sins`\
+    \n\n"𝘾𝙤𝙢𝙢𝙖𝙣𝙙: `.sins`\
     \n↳ : Sins Ganteng.\
-    "𝘾𝙤𝙢𝙢𝙖𝙣𝙙: `.tua`
+    \n\n"𝘾𝙤𝙢𝙢𝙖𝙣𝙙: `.tua`
     \n↳: war.
     \n\n𝘾𝙤𝙢𝙢𝙖𝙣𝙙: `.stress`
     \n↳: Coba aja hehehe.
