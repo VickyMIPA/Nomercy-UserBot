@@ -57,15 +57,14 @@ async def typewriter(typew):
 
 
 CMD_HELP.update({
-    "war":
-    \n\n"𝘾𝙤𝙢𝙢𝙖𝙣𝙙: `.sins`\
+    "war": n\n"𝘾𝙤𝙢𝙢𝙖𝙣𝙙: `.sins`\
     \n↳ : Sins Ganteng.\
     \n\n"𝘾𝙤𝙢𝙢𝙖𝙣𝙙: `.tua`
-    \n↳: war.\
+    \n↳: war.
     \n\n𝘾𝙤𝙢𝙢𝙖𝙣𝙙: `.stress`
-    \n↳: coba aja hehehe.\
+    \n↳: coba aja hehehe.
     \n\n𝘾𝙤𝙢𝙢𝙖𝙣𝙙: `.gajelas`
-    \n↳: lo ediot hehe.\
+    \n↳: lo ediot hehe.
     \n\n𝘾𝙤𝙢𝙢𝙖𝙣𝙙: `.kismin`
     \n↳: liat sendiri"
 }
